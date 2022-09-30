@@ -1,4 +1,4 @@
-# Material For MkDocs (Broken Nav)
+# Material For MkDocs (Bug)
 
 ## Installation
 
