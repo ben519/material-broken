@@ -1,5 +1,4 @@
 # Material For MkDocs (Broken Nav)
-See https://github.com/squidfunk/mkdocs-material/issues/4369
 
 ## Installation
 
@@ -24,7 +23,7 @@ mkdocs --version
 pip show mkdocs-material | grep -E ^Version
 ```
 
-## Build the site
+## Build
 
 ```
 python3 -m mkdocs serve
