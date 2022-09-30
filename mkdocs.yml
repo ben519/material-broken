@@ -1,0 +1,17 @@
+site_name: ABC
+
+theme:
+  name: material
+
+extra:
+  consent:
+    title: Cookie consent
+    description: hello world
+
+nav:
+  - Home: index.md
+  - Dogs:
+    - dogs/index.md
+    - Golden Retrievers:
+      - Golden Retrievers: dogs/golden-retrievers/index.md
+      - Movies: dogs/golden-retrievers/movies.md
