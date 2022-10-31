@@ -4,11 +4,6 @@ theme:
   name: material
   custom_dir: overrides
 
-extra:
-  consent:
-    title: Cookie consent
-    description: hello world
-
 plugins:
   - search
 
