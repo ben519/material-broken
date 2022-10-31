@@ -25,6 +25,6 @@ pip show mkdocs-material | grep -E ^Version
 
 ## Build
 
-```
+```shell
 python3 -m mkdocs serve
 ```

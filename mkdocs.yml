@@ -1,13 +1,16 @@
 site_name: ABC
-# repo_url: https://github.com/squidfunk/mkdocs-material  # uncomment this line and the build works
 
 theme:
   name: material
+  custom_dir: overrides
 
 extra:
   consent:
     title: Cookie consent
     description: hello world
+
+plugins:
+  - search
 
 nav:
   - Home: index.md
